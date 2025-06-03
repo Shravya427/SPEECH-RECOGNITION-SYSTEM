@@ -52,3 +52,7 @@ Language learning tools
 This speech recognition system demonstrates how accessible and powerful voice technology has become with modern tools. By combining Python and pre-trained models, developers can integrate voice control and transcription features into their apps in just a few lines of code. The simplicity of the solution also makes it an excellent starting point for students, hobbyists, or developers looking to explore AI-powered interfaces.
 
 #OUTPUT 
+![Image](https://github.com/user-attachments/assets/28b86b6e-ec52-4953-922e-d52210b1e69b)
+
+![Image](https://github.com/user-attachments/assets/301be5d3-71ad-46dc-893c-b22814d3bd7a)
+
